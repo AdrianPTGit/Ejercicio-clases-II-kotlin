@@ -1,4 +1,4 @@
-package org.example
+package org.example.Enunciado1
 
 /**
  * El sistema de notificaciones debe ser capaz de enviar:

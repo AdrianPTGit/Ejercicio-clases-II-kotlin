@@ -1,6 +1,4 @@
-package org.example
-
-import javax.print.attribute.standard.PrinterLocation
+package org.example.Enunciado1
 
 /**
  * -- Mensajes de correo electrónico:

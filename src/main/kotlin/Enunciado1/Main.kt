@@ -1,4 +1,4 @@
-package org.example
+package org.example.Enunciado1
 
 /**
  * Enunciado 1: (Utilización de clases abstractas).
